@@ -1,4 +1,4 @@
- ### Infrastructure as Code with Terraform on Azure
+ # Infrastructure as Code with Terraform on Azure
 
 Build, change and tear down an Azure network from a single Terraform file, without creating anything by hand in the Azure portal.
 
