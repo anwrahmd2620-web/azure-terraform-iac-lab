@@ -1,0 +1,32 @@
+# Terraform working files: downloaded providers and modules
+.terraform/
+
+# State files contain subscription IDs and resource details. Never commit them.
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Variable files often hold secrets
+*.tfvars
+*.tfvars.json
+
+# Local override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Saved plan files
+*.tfplan
+
+# CLI configuration
+.terraformrc
+terraform.rc
+
+# macOS
+.DS_Store
+
+# Keep .terraform.lock.hcl committed: it pins the exact provider version.
