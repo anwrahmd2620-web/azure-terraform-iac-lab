@@ -369,4 +369,4 @@ Ways to extend this lab towards a production-style setup:
 
 ---
 
-*Author: Anwar Ahmed · Based on Lab 04 by Jhante Charles*
+*Author: Anwar Ahmed ·
